@@ -8,6 +8,8 @@
 
 2. 自己使用 php 本地本地部署
 
+PS：`在php.ini中开启openssl，因为我们使用了加密`
+
 # 关于
 
 作者：[徐然](https://github.com/xiaoxustudio)
@@ -18,4 +20,4 @@
 
 # LICENSE
 
-[LICENSE](https://github.com/xiaoxustudio/blog-server-php)
+[LICENSE](https://raw.githubusercontent.com/xiaoxustudio/blog-server-php/main/LICENSE)
